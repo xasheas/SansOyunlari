@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514124720 source:c:\users\bdm-cmylz\desktop\c deneme\sansoyunalriproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
